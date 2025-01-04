@@ -5,7 +5,7 @@ Este repositorio tiene como objetivo crear un registró de aprendizaje con la te
 
 <p>Para crear un repositorio de git debes posicionarte en la carpeta que desees utilizar para esto y ingresar el siguiente comando:</p>
 
-```java
+```ruby
 "git init"
 ```
 
