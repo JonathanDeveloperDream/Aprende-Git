@@ -13,3 +13,6 @@ Este repositorio tiene como objetivo crear un registró de aprendizaje con la te
 <p>este comando inicializara el repositorio en la carpeta en la que  te encuentres.</p>
 <p>Luego debemos definir nuestro nombre de usuario para definir quien es el propietario del repositorio esto lo pudemos hacer con el siguiente comando:</p>
 
+```git
+git config user.name "USUARIO_DE_GITHUB"
+```
